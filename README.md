@@ -48,7 +48,7 @@ I've gotten many requests to show what plugins I used, so here they are.
     * [WorldStats](https://github.com/DESTROYMC-NET/WorldStats) - The /info command that shows server age, total players, and world size.
     * [SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - The messaging and ignore system.
     * [TabCompleter](https://github.com/DESTROYMC-NET/TabCompleter) - Blocks commands that are not on a list. Used to prevent random command usage.
-    * PlayerTracker - The /player command. I have yet to finish completing this one. Bug me if you really want it finished.
+    * [PlayerTracker](https://github.com/DESTROYMC-NET/PlayerTracker) - The /player command. It probably works fine.
 * [DMPEnderCrystal](https://www.spigotmc.org/resources/dmpendercrystal.74768/) - Allows end crystals to have killers in the messages.
 * [DMPHideMessages](https://www.spigotmc.org/resources/dmphidemessages.43080/) - Allows players to hide death messages for certain players.
 * [FarmLimiter](https://www.spigotmc.org/resources/farm-limiter.1419/) - Limits the amount of mobs in a given area. I added this originally because someone had a spider farm that kept on spawning and killed the server.
