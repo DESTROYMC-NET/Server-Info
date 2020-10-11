@@ -1,0 +1,7 @@
+use_netty_dns_resolver: true
+disable_modern_tab_limiter: true
+log_initial_handler_connections: true
+throttling:
+  tab_complete: 1000
+game_version: '1.15.2 to 1.16.2'
+disable_entity_metadata_rewrite: false
