@@ -8,9 +8,9 @@ I used Purpur on the backend servers and Waterfall for the proxy.
 
 ## Configuration
 These are the configuration files I used for the server. They will probably be outdated pretty soon.
-* Proxy
-* Waiting Server
-* Main Server
+* [Proxy](https://github.com/DESTROYMC-NET/Server-Info/tree/master/Proxy-Server)
+* [Waiting Server](https://github.com/DESTROYMC-NET/Server-Info/tree/master/Waiting-Server)
+* [Main Server](https://github.com/DESTROYMC-NET/Server-Info/tree/master/Main-Server)
 
 ## Plugins
 I've gotten many requests to show what plugins I used, so here they are.
