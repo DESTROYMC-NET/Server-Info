@@ -33,4 +33,4 @@ The first section checks if you are in the group already. If you are, just add 6
 
 You may notice the `delaysend` command. This was a custom command to run 1 second after it is executed. LuckPerms didn't update your data instantly, so the text that shows when your group expires was wrong. The command waits 1 second so LuckPerms can update and show the correct time.
 
-It was a decent syste that worked. There probably was a much better way of doing it.
+It was a decent system that worked. There probably was a much better way of doing it.
