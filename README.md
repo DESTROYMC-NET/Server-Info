@@ -64,7 +64,7 @@ I've gotten many requests to show what plugins I used, so here they are.
 * [PremiumVanish](https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/) - The vanish plugin I used.
 * [Protocollib](https://www.spigotmc.org/resources/protocollib.1997/) - Library for other plugins.
 * [Spark](https://www.spigotmc.org/resources/spark.57242/) - This plugin is a performance sampler. This plugin also replaced the /tps command to the super fancy one.
-* [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/) - Listens for votes and gives players rewards. This plugin just simply ran a LuckPerms command to put you into the "gold" group so your name was gold.
+* [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/) - Listens for votes and gives players rewards. This plugin just simply ran a LuckPerms command to put you into the "gold" group so your name was gold. You can see how I did the colored names [here](https://github.com/DESTROYMC-NET/Server-Info/blob/master/VotingSystem.md).
 * [TabList](https://www.spigotmc.org/resources/animated-tab-tablist.46229/) - The tab menu plugin I used.
 * [Vault](https://www.spigotmc.org/resources/vault.34315/) - An API plugin. This allows player names to have prefixes and suffixes. I used this to add colored names.
 * [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) - Allows multiple versions of Minecraft to connect.
